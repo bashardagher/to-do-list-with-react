@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/to-do-list-with-react/static/css/main.82e33bf4.css",
+    "main.js": "/to-do-list-with-react/static/js/main.da0ba0f3.js",
+    "static/js/453.323d14ab.chunk.js": "/to-do-list-with-react/static/js/453.323d14ab.chunk.js",
+    "static/media/Alexandria-Bold.ttf": "/to-do-list-with-react/static/media/Alexandria-Bold.3a05f905452665b339bc.ttf",
+    "static/media/Alexandria-Black.ttf": "/to-do-list-with-react/static/media/Alexandria-Black.1cf183bfa9539102e245.ttf",
+    "static/media/Alexandria-Light.ttf": "/to-do-list-with-react/static/media/Alexandria-Light.6cd796b123efc33a9785.ttf",
+    "static/media/Alexandria-Regular.ttf": "/to-do-list-with-react/static/media/Alexandria-Regular.6089c9af6e02b70a15df.ttf",
+    "index.html": "/to-do-list-with-react/index.html",
+    "main.82e33bf4.css.map": "/to-do-list-with-react/static/css/main.82e33bf4.css.map",
+    "main.da0ba0f3.js.map": "/to-do-list-with-react/static/js/main.da0ba0f3.js.map",
+    "453.323d14ab.chunk.js.map": "/to-do-list-with-react/static/js/453.323d14ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.82e33bf4.css",
+    "static/js/main.da0ba0f3.js"
+  ]
+}
